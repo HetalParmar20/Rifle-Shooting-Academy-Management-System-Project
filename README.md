@@ -1,0 +1,1 @@
+The Rifle Shooting Academy Management System is a web-based project designed to manage academy activities easily and efficiently. It helps in managing students, trainers, shooting schedules, fees, and performance records digitally. The system reduces manual work and provides secure and organized academy management.
